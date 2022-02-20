@@ -1,8 +1,8 @@
-# Repository Demonstrating the Working of AI based XRAY Image Enhancement Algorithm 
+# Repository Demonstrating initial prototype demonstration of AI based XRAY Image Enhancement Algorithm 
 ## Funded by [DIGIRAY](http://m.digiray.co.kr/page/page29)
 
 ## Description
-Image Enhancement algorithm developed for enhancing xray images. Available commercially via [Digiray]().
+Image Enhancement algorithm developed for enhancing xray images. Available commercially via [Digiray](http://m.digiray.co.kr/).
 Key Features : 
 * Light-Weight : Real Time performance on Modest Computational Resources
 * Unsupervised : No paired training data is needed
