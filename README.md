@@ -4,7 +4,7 @@
 ## Description
 Image Enhancement algorithm developed for enhancing xray images. Available commercially via [Digiray](http://m.digiray.co.kr/).
 Key Features : 
-* Light-Weight : Real Time performance on Modest Computational Resources (GTX1060)
+* Light-Weight : Real Time performance on Modest Computational Resources (4fps on GTX1060)
 * Unsupervised : No paired training data is needed
 * Blind : The method is scalable to unknown images. (Check the results below)
 
